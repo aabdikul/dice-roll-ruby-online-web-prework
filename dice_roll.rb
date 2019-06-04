@@ -1,2 +1,3 @@
 def roll(value)
-  rand "#{value }"
+  rand "#{value}"
+end
