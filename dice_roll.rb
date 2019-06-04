@@ -1,3 +1,3 @@
-def roll(value)
-  rand "#{value}"
+def roll()
+  return rand (1...7)
 end
